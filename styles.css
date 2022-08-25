@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    font-size: 5vh;
+}
+
+.menu-nav{
+    height: 10vh;
+    background-color: #ffd9bb;
+}
+
+.menu-nav_texto{
+    line-height: 1;
+    top: 2vh;
+    position: relative;
+    text-align: center;
+}
+
+.container{
+    z-index: 0;
+    display: inline-block;
+    position: absolute;
+    background-color: #fff7e7;
+    width: 75%;
+    height: 100vh;
+    padding: 20px;
+    top: 10vh;
+    box-shadow: 0 0 5px #cdb9b9;
+}
+
+.Para-cami{
+    position: absolute;
+    height: 50vh;
+    top: 15vh;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.texto{
+    position: relative;
+    text-align: center;
+    font-size: 4vh;
+    top: 65vh;
+}
+.vd{
+    background-color: #fff2f2;
+    z-index: 1;
+    font-family: 'Sarabun', sans-serif;
+    position: relative;
+    display: inline-block;
+    width: 25%;
+    height: 100vh;
+    text-align: center;
+    box-shadow: 0 0 7px #cdb9b9;
+}
+.dm-container{
+    height: 20vh;
+    box-shadow: 0 0 5px #cdb9b9;
+}
+.dm-container a{
+    position: relative;
+    line-height: 0;
+    top: 25%;
+}
+.ks-container{
+    height: 20vh;
+    box-shadow: 0 0 5px #cdb9b9;
+}
+.ks-container a{
+    position: relative;
+    line-height: 0;
+    top: 25%;
+}
+.bc-container{
+    height: 20vh;
+    box-shadow: 0 0 5px #cdb9b9;
+}
+.bc-container a{
+    position: relative;
+    line-height: 0;
+    top: 25%;
+}
+.vd-container{
+    height: 20vh;
+    box-shadow: 0 0 5px #cdb9b9;
+}
+.vd-container a{
+    position: relative;
+    line-height: 0;
+    top: 25%;
+}
+.proximamente{
+    height: 20vh;
+    box-shadow: 0 0 5px #cdb9b9;
+}
+.proximamente p{
+    position: relative;
+    line-height: 1;
+    top: 7.5vh;
+}
